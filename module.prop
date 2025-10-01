@@ -1,6 +1,6 @@
-id=pixeluisounds
-name=Pixel UI sounds
+id=pixelstuff
+name=PixelStuff
 version=v1
 versionCode=1
 author=enzosanchezariel
-description=Replaces AOSP UI sounds with Pixel's sounds.
+description=Adds pixel stuff to your device (UI sounds only right now).
